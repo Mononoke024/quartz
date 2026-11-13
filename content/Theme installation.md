@@ -1,0 +1,1 @@
+Follow [Quartz Themes](https://github.com/saberzero1/quartz-themes#manual-install-legacy) guide
