@@ -48,6 +48,7 @@ configuration:
 plugins:
   - source: "@quartz-themes/core"
     options:
+    enabled: true
       theme: "tokyo-night"
       mode: "both"
       defaultDateType: modified
